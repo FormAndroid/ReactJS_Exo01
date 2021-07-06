@@ -1,0 +1,12 @@
+.title {
+    text-shadow: 2px 1px 1px hotpink;
+    color: cyan;
+}
+
+.demo {
+    background-color: #FF000010;
+}
+
+.demo p {
+    color: darkcyan;
+}
